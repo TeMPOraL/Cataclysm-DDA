@@ -253,9 +253,8 @@
     ]
   ],
   "components": [
-    [ [ "circuit", 2 ] ],
-    [ [ "e_scrap", 5 ] ],
-    [ [ "cable", 2 ] ],
+    [ [ "circuit", 1 ] ],
+    [ [ "e_scrap", 2 ] ],
     [ [ "amplifier", 1 ] ]
   ]
 },{
@@ -277,9 +276,8 @@
     ]
   ],
   "components": [
-    [ [ "circuit", 3 ] ],
-    [ [ "e_scrap", 7 ] ],
-    [ [ "cable", 3 ] ],
+    [ [ "circuit", 1 ] ],
+    [ [ "e_scrap", 3 ] ],
     [ [ "amplifier", 2 ] ]
   ]
 },{
@@ -1943,7 +1941,7 @@
     [ [ "battery", 5 ] ],
     [ [ "antenna", 1 ] ],
     [ [ "amplifier", 1 ] ],
-    [ [ "cable", 5 ] ]
+    [ [ "cable", 3 ] ]
   ]
 },{
   "type" : "recipe",
@@ -1964,7 +1962,7 @@
     [ [ "battery", 5 ] ],
     [ [ "antenna", 1 ] ],
     [ [ "amplifier", 1 ] ],
-    [ [ "cable", 5 ] ]
+    [ [ "cable", 3 ] ]
   ]
 },{
   "type" : "recipe",
@@ -2337,7 +2335,7 @@
     [ [ "pilot_light", 1 ] ],
     [ [ "battery", 10 ] ],
     [ [ "amplifier", 1 ] ],
-    [ [ "cable", 2 ] ]
+    [ [ "cable", 1 ] ]
   ]
 }
 ]
